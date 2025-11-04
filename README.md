@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋,this is me, Gouri Manoj.</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-
+<h4 a passionate and detail-oriented Computer Science Engineer and Data Analyst in the making!
+I have completed a professional training program in Data Analytics, gaining hands-on experience in data visualization, statistical analysis, and business intelligence tools such as Power BI, Excel, and SQL.
+Currently, I'm pursuing studies in Data Science and Full Stack Web Development, enhancing my technical and analytical skills to create innovative, data-driven, and web-based solutions I'm actively seeking Data Analyst roles where I can apply my knowledge to uncover insights, drive decisions, and make a meaningful impact through data.</h4> 
+  
 - 🌱 I’m currently exploring **Data science and full stack web development**
 
 - 👯 Always open to collaborate on **data-driven projects**
